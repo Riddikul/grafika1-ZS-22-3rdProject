@@ -1,0 +1,4 @@
+Posouvání pomocí levého tlačítka myši, rotace pravé tlačíko, zoom kolečko
+Mezi objekty se mění pomocí kláves P,C
+Projekce se mění pomocí klávesy V
+Křivky jsou pomocí kláves 1,2,3 na numerické klávesnici
